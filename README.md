@@ -1,6 +1,6 @@
 # Estágio Target
 
-Desafios feitos no intuito de ingresso no estágio de Desenvolvimento da empresa de tecnologia e serviços 'Target'.
+Desafios feitos na finalidade de ingresso no estágio de Desenvolvimento da empresa de tecnologia e serviços 'Target'.
 
 Dediquei uma parte do meu dia para o desenvolvimento desses desafios. Me atentei em escrever um código objetivo, compacto, claro e eficiente. Também tratei de fazer diversos comentários explicando a funcionalidade de certos trechos e linhas.
 
